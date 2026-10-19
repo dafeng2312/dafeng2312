@@ -64,4 +64,4 @@ I am actively learning the foundations of software engineering. Here is the tech
 ### 🤝 Connect with me
 
 * 💼 **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/dafengye/?isSelfProfile=true)
-* 📧 **Email:** [My email](mailto:dfye2312@gmail.com)
+* 📧 **Email:** dfye2312@gmail.com
