@@ -63,12 +63,5 @@ I am actively learning the foundations of software engineering. Here is the tech
 
 ### 🤝 Connect with me
 
-<p align="left">
-  <!-- Reemplaza el # de abajo por tu enlace real de perfil de LinkedIn cuando lo tengas -->
-  <a href="#" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://google.com" target="_blank">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+* 💼 **LinkedIn:** [Visit my LinkedIn](https://www.linkedin.com/in/dafengye/?isSelfProfile=true)
+* 📧 **Email:** [My email](mailto:dfye2312@gmail.com)
