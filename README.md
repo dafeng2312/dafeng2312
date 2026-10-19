@@ -1,6 +1,6 @@
 # Hi there, I'm dafeng 👋
 
-I am a **22-year-old Backend Software Developer ** based in **Spain** . With a Chinese heritage and an international mindset, I am focused on mastering clean code architecture, database management, and backend logic.
+I am a **22-year-old** **Backend** **Software** **Developer** based in **Spain** . With a Chinese heritage and an international mindset, I am focused on mastering clean code architecture, database management, and backend logic.
 
 Currently, I am fast-tracking my core programming skills through the intensive **Full Stack Web & AI Developer Master's Programs** at **Conquer Blocks** academy.
 
